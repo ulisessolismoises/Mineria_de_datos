@@ -8,6 +8,6 @@
 
 [ejercicios 1 ] (https://github.com/MarleneCalderon/Mineria_de_Datos/blob/master/Ejercicios%201.pdf)
 
-[MapaMental 2](https://github.com/ulisessolismoises/Mineria_de_datos/blob/master/MapaMental_2_%7B1887850%7D.pdf)
+[MapaMental 2]  (https://github.com/ulisessolismoises/Mineria_de_datos/blob/master/MapaMental_2_%7B1887850%7D.pdf)
 
 [Resumenes] 
