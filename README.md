@@ -11,3 +11,5 @@
 [MapaMental 2]  (https://github.com/ulisessolismoises/Mineria_de_datos/blob/master/MapaMental_2_%7B1887850%7D.pdf)
 
 [Resumenes] (https://github.com/ulisessolismoises/Mineria_de_datos/blob/master/RESUMENES_%7B1887850%7D.pdf)
+
+[Análisis de Bases de Datos] (https://github.com/ulisessolismoises/Mineria_de_datos/blob/master/AnalisisBD_1887850.pdf)
