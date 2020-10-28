@@ -15,3 +15,5 @@
 [Análisis de Bases de Datos] (https://github.com/ulisessolismoises/Mineria_de_datos/blob/master/AnalisisBD_1887850.pdf)
 
 [Ejercicios básicos de python 1] (https://github.com/ulisessolismoises/Mineria_de_datos/blob/master/EjerciciosBasicosPython1.ipynb)
+
+[Avance 1 PIA equipo 6 grupo 003] (https://github.com/ulisessolismoises/Mineria_de_datos/blob/master/Avance1-PIA_Equipo6_003Viernes.pdf)
